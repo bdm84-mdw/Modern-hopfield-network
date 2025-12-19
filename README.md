@@ -1,4 +1,4 @@
-# Modern-hopfield-network
+# Modern Hopfield Network
 This code implements Modern Hopfield Network using PyTorch. The network takes in two variables, dim for number of nodes and beta, to initialize. Users can test the retrieval of MNIST digits for custom beta, noise level and max epoch. The code also tests how the hyperparameters noise level, beta, and max epoch influences the accuracy of the retrieval of this network. 
 
 By running the code, we can understand some properties of Modern Hopfield Network.
